@@ -1,5 +1,5 @@
-# fcsweb
+#fcsweb
 Faculty Website 
 
 Trial to redesign computer studies faculty website
-# By Navilindo - 2023
+ By Navilindo - 2023
