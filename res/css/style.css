@@ -135,8 +135,8 @@ main {
 /* footer */
 
 footer {
-    color: white;
-    background-image: linear-gradient(to right, #454a4b, #2e2f30);
+    color: black;
+    background-image: linear-gradient(to right, #cccfcf, #aeb2b6);
     /* background-color: #00A3DD; */
 }
 
@@ -156,7 +156,7 @@ footer h5 {
 
 #copy-left {
     background-color: #1EB53A;
-    background-color: black;
+    background-color: rgb(3, 8, 77);
     font-weight: 400;
     color: grey;
     padding-top: .5rem;
