@@ -136,12 +136,12 @@ main {
 
 footer {
     color: black;
-    background-image: linear-gradient(to right, #cccfcf, #aeb2b6);
+    background-image: linear-gradient(to right, #cccfcf, #c6c8ca);
     /* background-color: #00A3DD; */
 }
 
 footer a {
-    color: white;
+    color: #00A3DD;
     text-decoration: none;
 }
 
