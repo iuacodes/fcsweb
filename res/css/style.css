@@ -114,8 +114,13 @@ main {
 }
 
 .news-info {
-    font-size: small;
-    font-weight: 600;
+    font-size : medium;
+    font-weight: 400;
+    color : #999999;
+}
+
+.news-info > a {
+    color : #999999;
 }
 
 .news {
