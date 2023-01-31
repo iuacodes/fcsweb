@@ -113,12 +113,12 @@ main {
     color: var(--my-orange);
 }
 
-.scholar-info {
+.news-info {
     font-size: small;
     font-weight: 600;
 }
 
-.scholar {
+.news {
     padding-top: 0.4rem;
     padding-bottom: 0.4rem;
 }
