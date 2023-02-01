@@ -135,7 +135,7 @@ main {
 /* footer */
 
 footer {
-    color: black;
+    color: rgb(3, 8, 77);
     background-image: linear-gradient(to right, #f6f8f8, #ebecee);
     /* background-color: #00A3DD; */
     background-color: rgb(245, 170, 8);
